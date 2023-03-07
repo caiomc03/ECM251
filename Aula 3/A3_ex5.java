@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class A4_ex5 {
+public class A3_ex5 {
 
     public static void lerTxt(String nomeArquivo){
         try{
@@ -19,7 +19,7 @@ public class A4_ex5 {
         }
     }
     public static void main(String[] args){
-        lerTxt("A4_ex5.txt");
+        lerTxt("A3_ex5.txt");
 
     }
 }
