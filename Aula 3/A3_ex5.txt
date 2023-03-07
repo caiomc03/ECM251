@@ -1,1 +1,1 @@
-Olá Mundo!
+escrevendo coisas aleatorias ate atingir dez palavras para o programa
