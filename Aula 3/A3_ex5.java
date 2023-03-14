@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class A3_ex5 {
- //Faltou inverter as palavras
+ 
     public static String lerTxt(String nomeArquivo, String lista[]){
         
         int i =0;
